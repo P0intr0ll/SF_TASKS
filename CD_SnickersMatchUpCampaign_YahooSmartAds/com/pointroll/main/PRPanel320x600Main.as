@@ -1,0 +1,1 @@
+﻿package com.pointroll.main {	import com.pointroll.main.PRPanelMain;	public class PRPanel320x600Main extends PRPanelMain{		public function PRPanel320x600Main() {			super(320,600);		}	}	}
