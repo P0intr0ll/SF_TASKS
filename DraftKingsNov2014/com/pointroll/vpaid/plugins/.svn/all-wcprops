@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/VPAID/!svn/ver/34/trunk/src/com/pointroll/vpaid/plugins
+END
+VPAIDPositioner.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/VPAID/!svn/ver/18/trunk/src/com/pointroll/vpaid/plugins/VPAIDPositioner.as
+END
+IVPAIDPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/VPAID/!svn/ver/15/trunk/src/com/pointroll/vpaid/plugins/IVPAIDPlugin.as
+END
+OOPHost.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/VPAID/!svn/ver/29/trunk/src/com/pointroll/vpaid/plugins/OOPHost.as
+END
+OOPClient.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/VPAID/!svn/ver/34/trunk/src/com/pointroll/vpaid/plugins/OOPClient.as
+END

@@ -1,0 +1,1 @@
+﻿package com.PointRoll.Widgets {	public class Global {		public static var vars:Object = new Object();	}}
